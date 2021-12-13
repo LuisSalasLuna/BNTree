@@ -1,18 +1,19 @@
 # BNTree
 La implementacion consiste de:
-BNTree.cpp: implementacion completa de la estructura con, constructor y funciones insert, KNN
 
-Data.hpp: usado para la lectura de datos MINIST y el almacenamiento en .txt, para indexacion futura
+- BNTree.cpp: implementacion completa de la estructura con, constructor y funciones insert, KNN
 
-normas.txt: contiene la onversion en normas de los datos originales, en orden de extraccion
+- Data.hpp: usado para la lectura de datos MINIST y el almacenamiento en .txt, para indexacion futura
 
-test.txt: Datos usados para hacer comparaciones de vecinos mas cercanos
+- normas.txt: contiene la onversion en normas de los datos originales, en orden de extraccion
 
-Carpeta images: Datos convertidos para coroboracion
+- test.txt: Datos usados para hacer comparaciones de vecinos mas cercanos
 
-Carpeta test: Datos convertidos para coroboracion de test
+- Carpeta images: Datos convertidos para coroboracion
 
-makefile: para compilacion en multiples SO
+- Carpeta test: Datos convertidos para coroboracion de test
+
+- makefile: para compilacion en multiples SO
 
 
 Ejecucion:
